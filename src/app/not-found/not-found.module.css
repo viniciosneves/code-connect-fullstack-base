@@ -1,0 +1,12 @@
+.text {
+    color: #BCBCBC;
+    text-align: center;
+    font-size: 37px;
+    font-style: normal;
+    font-weight: 500;
+    line-height: 120%; /* 44.4px */
+}
+
+.not-found {
+    text-align: center;
+}
